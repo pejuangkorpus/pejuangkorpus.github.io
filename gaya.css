@@ -1,0 +1,31 @@
+body {
+	background: #222323;
+	color: #f0f6f0;
+	display: flex;
+	font-family: "VT323", "Ubuntu Mono", "Inconsolata", "Courier New", monospace;
+	font-size: 24px;
+	height: 100vh;
+	margin: 0;
+	width: 100vw;
+	align-items: center;
+	justify-content: center;
+}
+
+main {
+	border: 2px solid #f0f6f0;
+	box-sizing: border-box;
+	margin: 16px;
+	max-width: 400px;
+	padding: 16px;
+	width: 100%;
+}
+
+h1 {
+	font-size: 150%;
+	font-weight: normal;
+	margin: 0 0 8px;
+}
+
+p {
+	margin: 8px 0;
+}
